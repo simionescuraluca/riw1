@@ -1,0 +1,6 @@
+dan = {d4.txt=1, d2.txt=1}
+bune = {d3.txt=1}
+ana = {d1.txt=1}
+mere = {d1.txt=1, d2.txt=2}
+gutui = {d3.txt=1, d4.txt=1}
+pere = {d1.txt=1}
